@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world from HEYE Alan");
+            Console.WriteLine("Hello world from Marcotty Fred");
             Console.ReadLine();
         }
     }
